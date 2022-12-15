@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "I:\\Upgrad\\BLC\\Code\\Dapp_Marketplace\\contracts\\BasicMarketplace.sol": {
+      "lastModificationDate": 1670759787054,
+      "contentHash": "e675f1706678c5c668d41d62647fe3fb",
+      "sourceName": "contracts/BasicMarketplace.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.17"
+      ],
+      "artifacts": [
+        "BasicMarketplace"
+      ]
+    }
+  }
+}
