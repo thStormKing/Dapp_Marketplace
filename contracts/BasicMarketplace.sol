@@ -42,6 +42,14 @@ contract BasicMarketplace {
             p.askingPrice,
             p.isSold
         );
+        // products[numProduct] = Product(
+        //     numProduct,
+        //     itemName,
+        //     msg.sender,
+        //     msg.sender,
+        //     askingPrice,
+        //     false
+        // );
 
         numProduct++;
     }
